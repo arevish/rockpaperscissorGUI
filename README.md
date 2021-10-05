@@ -8,7 +8,7 @@ program changes the image as you select the move to show on the screen and tells
 Hope You Will Like The Game. also u can use the code to make your own version of game.
 
 
- <img src="gameGUI.png" >
+ <img src="gameGUI.PNG" >
 
 
 > ### To play the game, simply double click on the **rockpaperscissorGUI.exe**.
